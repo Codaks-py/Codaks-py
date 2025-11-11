@@ -42,7 +42,7 @@ Predicts academic performance based on student demographics and study habits.
 ## 🌱 Currently Exploring
 
 - Model deployment with FastAPI  
-- Real-time data integration from fitness devices  
+- Real-time data integration   
 - Feature engineering and interpretability techniques
 
 ---
