@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Codaks-py
 
-Welcome to my GitHub! I'm a data-driven developer, passionate about building intelligent systems that turn raw data into smart predictions. Whether it's health analytics or academic performance modeling, I love crafting clean pipelines and deploying models that work.
+Welcome to my GitHub! I'm a data-driven developer, passionate about building intelligent systems that turn raw data into smart predictions.I love crafting clean pipelines and deploying models that work.
 
 ---
 
